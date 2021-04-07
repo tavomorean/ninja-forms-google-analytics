@@ -4,7 +4,7 @@
  * Plugin Name: Ninja Forms - Google Analytics
  * Version: 3.0.0
  * Description: Trigger a custom GA event for Ninja Forms (v3) Submissions.
- * Author: Kyle B. Johnson
+ * Author: Kyle B. Johnson - Update by: Gustavo Morean
  * Author URI: http://kylebjohnson.me
  */
 
